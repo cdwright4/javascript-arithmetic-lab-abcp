@@ -37,4 +37,3 @@ function preserveDecimal(num1){
   return parseFloat(num1);
 }
 
-}
