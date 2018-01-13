@@ -28,3 +28,4 @@ function inc(num1) {
 function dec(num1) { 
   return --num1;
 }
+
